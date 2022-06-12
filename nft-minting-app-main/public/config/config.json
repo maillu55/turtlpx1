@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xB37f9b759d63611690ffa98Bb97BE09E851fa9e7",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xb37f9b759d63611690ffa98bb97be09e851fa9e7",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Turtlepx",
+  "SYMBOL": "TPX",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 30,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/turtlepx",
+  "SHOW_BACKGROUND": true
+}
